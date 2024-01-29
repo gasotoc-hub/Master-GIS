@@ -1,0 +1,18 @@
+body{
+    padding: 18em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+p{
+    font-size:xx-small;
+    color: black;
+    border-style: dotted;
+    border-color: red;
+    border-width: 1px;
+}
+
+#central{
+    background-color: blue;
+    color: white;
+    font-size: x-large;
+    border-style: none;
+}
